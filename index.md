@@ -1,37 +1,54 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Nahidstar92/resume.farsi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://avatars.githubusercontent.com/u/73713988?v=4"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ <h1> درباره ی من</h1>
+  <p> من ناهید حیدری هستم. من دانشجوی ڪارشناسی رشته ی مهندسی کامپیوتر دانشگاه پیام نور تهران شمال  هستم.</p>
+  
+  <ul>
+    <h3> مشخصات فردی</h3>
+  <li>نام:ناهید</li>
+  <li>نام خانوادگے: حیدری</li>
+  <li>تاریخ تولد: 1371/07/13</li>
+  <li>وضعیت تاهل: متاهل</li>
 
-### Markdown
+</ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  
+<h1>مهارت ها</h1>
 
-```markdown
-Syntax highlighted code block
+<ul>
+    <li>C++</li>
+    <li>C </li>
+   <li>مقاله نویسی</li>
+   <li>پژوهش</li>
+</ul>
 
-# Header 1
-## Header 2
-### Header 3
+<h1>علایق </h1>
+<ul>
+ <li> مسافرت</li>
+ <li> تماشای فیلم</li>
+</ul>
 
-- Bulleted
-- List
+<h1> زبان ها</h1>
+<ul>
+  <li>فارسی</li>
+    <li>انگلیسی</li>
+</ul>
 
-1. Numbered
-2. List
+<h1> تجربه های کاری </h1>
+<ul>
+   <li>هیچی</li>
+</ul>
 
-**Bold** and _Italic_ and `Code` text
+<br/>
 
-[Link](url) and ![Image](src)
-```
+<h1> سایر حساب های ڪاربری </h1>
+<ul>
+ 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nahidstar92/resume.farsi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ 
+   - Gmail: Nahid.star92@gmail.com
+   - کوئرا: <a href="https://quera.ir/profile/Nahidstar92">My Profile</a>
+   - رزومه ی انگلیسی: <a href="https://nahidstar92.github.io/Resume/"> Resume </a>
+</ul>
