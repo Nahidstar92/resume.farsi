@@ -4,7 +4,7 @@
 
  <h1> درباره ی من</h1>
   <p> من ناهید حیدری هستم. من دانشجوی ڪارشناسی رشته ی مهندسی کامپیوتر دانشگاه پیام نور تهران شمال  هستم.</p>
-  
+  ---------
   <ul>
     <h3> مشخصات فردی</h3>
   <li>نام:ناهید</li>
@@ -48,7 +48,7 @@
  
 
  
-   - Gmail: Nahid.star92@gmail.com
+- Gmail: Nahid.star92@gmail.com
    - کوئرا: <a href="https://quera.ir/profile/Nahidstar92">My Profile</a>
    - رزومه ی انگلیسی: <a href="https://nahidstar92.github.io/Resume/"> Resume </a>
 </ul>
