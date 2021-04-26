@@ -45,10 +45,10 @@
 
 <h1> سایر حساب های ڪاربری </h1>
 <ul>
- 
 
- 
-   + Gmail:Nahid.star92@gmail.com
-   + کوئرا: <a href="https://quera.ir/profile/Nahidstar92">My Profile</a>
-   + رزومه ی انگلیسی: <a href="https://nahidstar92.github.io/Resume/"> Resume </a>
+- Gmail: Nahid.star92@gmail.com
+
+- کوئرا: <a href="https://quera.ir/profile/Nahidstar92">My Profile</a>
+
+- رزومه ی انگلیسی: <a href="https://nahidstar92.github.io/Resume/"> Resume </a>
 </ul>
